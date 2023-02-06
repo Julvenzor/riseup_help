@@ -6,7 +6,7 @@ La meilleure façon de nous contacter est de remplir un billet de dépannage. Vo
 
 ## Courriel
 
-Si vous avez des questions générales sur notre collectif, vous pouvez nous envoyer un courriel à collective@riseup.net. Toute demande d'aide à cette adresse sera ignorée.
+Si vous avez des questions générales sur notre collectif, vous pouvez nous envoyer un courriel à collective@riseup.net. Toute demande d'invitation ou demande d'aide à cette adresse sera ignorée.
 
 L'identifiant long de notre clé gpg est `0x3043E2B7139A768E`. L'empreinte complète est :
 
@@ -21,8 +21,8 @@ Vous n'avez pas de raison particulière d'avoir confiance dans cette clé. Vous 
 Notre adresse postale est la suivante:
 
 	Riseup Networks
-	PO Box 4282
-	Seattle, WA 98194 USA
+	PO Box 3027
+	Lacey, WA 98509 USA
 
 ## IRC
 
